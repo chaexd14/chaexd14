@@ -1,6 +1,7 @@
 ### Hi, I'm `King Amato` 👋
 ## Aka `<Chae/>`
 
+<strong>About</strong>
 🎓 Student at [Rizal Technological University](https://web.facebook.com/RizTechUniversity)<br/>
 👩🏻‍💻 Taking Information Technology<br/>
 
