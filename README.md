@@ -1,4 +1,4 @@
-### Hi, `I'm King Amato` 👋
+### Hi, I'm `King Amato` 👋
 ## Aka `<Chae/>`
 
 🎓 Student at [Rizal Technological University](https://web.facebook.com/RizTechUniversity)<br/>
