@@ -6,4 +6,4 @@
 &nbsp;• 👨‍💻 Taking Information Technology<br/>
 &nbsp;• 🇵🇭 Phillipines
 
-[![Chae's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaexd14&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Chae's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaexd14&show_icons=true&theme=tokyonight&includeallcommits=true)]
