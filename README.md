@@ -2,7 +2,7 @@
 ### Aka `<Chae/>`
 
 <strong>About</strong><br/>
-&nbsp;• 🎓 Student in [Rizal Technological University](https://web.facebook.com/RizTechUniversity)  
+&nbsp;• 🎓 Student at [Rizal Technological University](https://web.facebook.com/RizTechUniversity)  
 &nbsp;• 👨‍💻 Taking Information Technology<br/>
 &nbsp;• 📍 Philippines  
 
