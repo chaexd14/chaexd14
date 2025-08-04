@@ -6,6 +6,6 @@
 &nbsp;• 👨‍💻 Taking Information Technology<br/>
 &nbsp;• 📍 Philippines  
 
-[![Chae GitHub stats](https://github-readme-stats-two-alpha-12.vercel.app/api?username=chaexd14&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=0)](https://github.com/anuraghazra/github-readme-stats)
+[![Chae GitHub stats](https://github-readme-stats-two-alpha-12.vercel.app/api?username=chaexd14&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=3600)](https://github.com/anuraghazra/github-readme-stats)
 
 
